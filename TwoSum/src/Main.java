@@ -1,5 +1,5 @@
 /*
-Amaç toplamları verilen hedefe karşılık gelecek iki sayıyı bulmak
+The goal is to find two elements in the array whose sum is equal to the given target value.
  */
 public class Main {
     public static void main(String[] args) {

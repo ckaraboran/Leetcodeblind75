@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f89454b-6a7a-4dab-9e5a-e17d3ca41a05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcodeblind75.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwoSum/TwoSum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwoSum/src/BruteForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwoSum/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwoSum/src/OnePassHashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwoSum/src/TwoPassHashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwoSum/src/TwoSumCalculator.java" afterDir="false" />
-    </list>
+    <list default="true" id="7f89454b-6a7a-4dab-9e5a-e17d3ca41a05" name="Changes" comment="feat: add two sum calculator" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +61,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668720056141</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: add two sum calculator">
+      <created>1668721951916</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668721951916</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +82,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add two sum calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add two sum calculator" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -100,9 +98,18 @@
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/TwoSum/src/OnePassHashTable.java</url>
+          <line>8</line>
+          <properties class="OnePassHashTable" method="twoSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/TwoSum/src/TwoPassHashTable.java</url>
-          <line>12</line>
+          <line>9</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
